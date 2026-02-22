@@ -175,4 +175,18 @@ Flipkart-Mobile-Analysis/
 ├── flipkart-icon.webp                   # Project image/logo
 └── README.md                            # Project documentation
 ```
+## 👤 Author
 
+**Akhil Golla**  
+Aspiring Data Analyst | Python | EDA | Web Scraping  
+
+<p>
+  <a href="mailto:akhilyadav2502@gmail.com">
+    <img src="https://img.shields.io/badge/Email-akhilyadav2502%40gmail.com-red?style=for-the-badge&logo=gmail">
+  </a>
+  <a href="https://www.linkedin.com/in/akhilyadav25/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-Akhil%20Yadav-blue?style=for-the-badge&logo=linkedin">
+  </a>
+</p>
+
+---
